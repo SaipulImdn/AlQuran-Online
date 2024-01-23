@@ -1,8 +1,4 @@
 <br />
-<p align="center">
-  <a href="https://i-recite.lynninc.cloud">
-    <img src="https://raw.githubusercontent.com/Lynnxha/iRecite/main/public/logo/logo-512x.png" alt="Logo" width="80" height="80">
-  </a>
 
   <h1 align="center">Al-Quran-Online</h1>
 
